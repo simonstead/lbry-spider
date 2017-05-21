@@ -1,0 +1,15 @@
+{
+  "name": "lbry-spider",
+  "version": "1.0.0",
+  "description": "lbry crawler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Stead <simonstead@me.com> (https://github.com/simonstead)",
+  "license": "ISC",
+  "dependencies": {
+    "lbry-nodejs": "^1.0.4"
+  }
+}
